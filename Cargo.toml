@@ -1,9 +1,9 @@
 [package]
 name = "EntroRS"
 version = "2.1.0"
-edition = "2021"
+edition = "2026"
 description = "Zararlı Yazılım Statik Analiz Aracı - Entropy Checker"
-authors = ["Security Researcher"]
+authors = ["Efe Sidal"]
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
